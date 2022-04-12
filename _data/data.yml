@@ -6,17 +6,6 @@ basic:
     path: profile.png
 
 contact:
-  wechat:
-  whatsapp:
-  telegram:
-  website: example.com
-  medium:
-  linkedin:
-  googlescholar:
-  researchgate:
-  github: github
-  gitlab:
-  bitbucket:
   email: e1ectricwiz4rd@gmail.com
   phone: +420775623510
   linkedin: https://www.linkedin.com/in/alexander-tankovsky-09754312a/
@@ -87,9 +76,8 @@ experiences:
         Experience in this company:
           + Development of a design document during the conversation with client
           + Development of software logic and interface - Windows python desktop WxWidgets application - software downloader/launcher with licence key checking, compiled into single executable.
-          + Developed Flask server-side web application with VueJS UI for license key control and generation.
+          + Development of the Flask server-side web application with VueJS UI for license key control and generation.
 
-Technologies: Python, Flask, Windows, WxWidgets.
         
     - role: DevOps engineer / Backend python developer
       time: 2018.08 - 2020.04
