@@ -17,8 +17,11 @@ profile:
   display: true
   title: Profile
   details: |
+    
     I'm thinking that it's inmortant for an IT engineer to be not a “programmer on language X”, but an Engineer in general. My main skill isn't a certain technologies knowledge - technologies are countless and keep evolve - but ability to search, to understand, to figure out requirements, to architect solution with the best tools, and to learn from a mistakes, which always occurs.
+    
     My main programming language is Python, because it’s like is an English in the world of computer languages, but I have been composing programs and writing computer poetry on counless languages, I have a special attitude towards Lisps.
+    
     Also development process is not about tools, but it’s about people, so I understand importance of being team player and project management practices.
 
 experiences:
@@ -33,8 +36,7 @@ experiences:
       details: |
         Experience in this company:
           + Password retention system automated migration and update implementation
-          + Setup of network policies checking management via Restorepoint (lua, regular expressions)
-          - role: DevOps engineer
+          + Setup of network policies checking management via Restorepoint and lua automation.
 
     - role: Network security engineer
       time: 2020.08 - 2021.04
