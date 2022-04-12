@@ -64,7 +64,7 @@ experiences:
           + Development of the Flask server-side web application with VueJS UI for license key control and generation.
 
         
-    - role: DevOps engineer / Backend python developer
+    - role: Backend python developer / DevOps engineer
       time: 2018.08 - 2020.04
       company: Grid Dynamics
       tag: full-time
@@ -80,9 +80,9 @@ experiences:
         + Participated in development of ansible-based DBA-automation tool for big retail shop, performed codebase migration from Python2 to Python3.
         + Participated in development of terraform-based environment-management system based on GitOps principles.
         
-    - role: the_covert
+    - role: DevOps Engineer
       time: 2017.02 - 2018.05
-      company: TimeWeb
+      company: the_covert
       tag: full-time
       location: Saint-Petersburg
       details: |
