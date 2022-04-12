@@ -17,10 +17,10 @@ profile:
   display: true
   title: Profile
   details: |
+
+    I think that it's important for an IT engineer not being a “programmer on language X”, but an Engineer in general sense. My main skill isn't about certain technologies knowledge - technologies are countless and keep evolve - but in the ability to search, to understand, to figure out requirements, to architect best solution with the right tools, and to learn from a mistakes, which always occurs.
     
-    I'm thinking that it's inmortant for an IT engineer to be not a “programmer on language X”, but an Engineer in general. My main skill isn't a certain technologies knowledge - technologies are countless and keep evolve - but ability to search, to understand, to figure out requirements, to architect solution with the best tools, and to learn from a mistakes, which always occurs.
-    
-    My main programming language is Python, because it’s like is an English in the world of computer languages, but I have been composing programs and writing computer poetry on counless languages, I have a special attitude towards Lisps.
+    My main programming language is Python, because it’s like is an English in the world of computer languages, but I have been composing programs and writing computer poetry on countless languages, I have a special warm attitude towards Lisps.
     
     Also development process is not about tools, but it’s about people, so I understand importance of being team player and project management practices.
 
@@ -36,7 +36,7 @@ experiences:
       details: |
         Experience in this company:
           + Password retention system automated migration and update implementation
-          + Setup of network policies checking management via Restorepoint and lua automation.
+          + Setup of network policies checking management (Restorepoint, lua)
 
     - role: Network security engineer
       time: 2020.08 - 2021.04
@@ -46,20 +46,11 @@ experiences:
       details: |
         Experience in this company:
         + Automation dvelopmen for password management
-        + Firewall configuration ()
+        + Firewall configuration (iptables, ferm, Windows Firewall)
         + Windows Policies configuration
-
-    - role:
-      time: 2020.08 - 2020.03
-      company: IBM
-      tag: full-time
-      location: Brno
-      details: |
-        Experience in this company:
         + Application secutity assesment
         + VBA automation scripting
         + Firewall configration
-
     
     - role: Python Developer
       time: 2016.02 - 2017.02
