@@ -1,13 +1,11 @@
 basic:
-  name: Foo Bar
-  title: Backend Developer
+  name: Aleksandr Tankovskii
+  title: Python Developer
   avatar:
-    display: true
+    display: false
     path: profile.png
 
 contact:
-  email: me@example.com
-  phone: +86-111-2222-3333
   wechat:
   whatsapp:
   telegram:
@@ -19,51 +17,143 @@ contact:
   github: github
   gitlab:
   bitbucket:
+  email: e1ectricwiz4rd@gmail.com
+  phone: +420775623510
+  linkedin: https://www.linkedin.com/in/alexander-tankovsky-09754312a/
+  github: https://github.com/CommanderAsdasd/
   twitter: twitter
-  stackoverflow:
-  quora:
-  goodreads:
+  stackoverflow: https://stackoverflow.com/users/6634635/commander-asdasd
 
 profile:
   display: true
   title: Profile
   details: |
-    It's your career profile, you can wirte markdown format text.
-    + First
-    + Second
+    I’m considering myself not as a “programmer on language X”, but as IT engineer in general. My main skill is not knowing a certain technologies (which is countless and they are keep evolving), but the ability to search, to understand new, to figure out technical requirements from customers and to engineer solutions, using the most suitable tools available.
+    My main language is Python, because it’s like is an English in the world of computer languages, but also I love Lisps.
+    Also development process is not about tools, but it’s about people, so I understand importance of being team player and project management practices. 
 
-    ...
+    * 6+ year experience of Python programming (Python3, Python2 migration, web frameworks - flask, bottle, Django). 5+ year DevOps (Ansible, Chief, Fabric, Jenkins, Kubernetes)
+    * 4+ CloudOps experience (AWS, GCE, GKE), including projects in blockchain technologies field (cryptocurrency exchange).
+    * 7+ year experience of various Linux systems administration (Debian-based, RHEL-based).
+    * Experience with machine learning, understanding of principles, built simple prediction models for financial sphere.
+    * Solid Javascript, C++ understanding, algorithms and programming language theory.
+    * Stack: Python, NodeJS, Java apps.
+
 
 experiences:
   display: true
   title: Experiences
   items:
-    - role: Backend Developer
-      time: 2018.03 - 2019.03
-      company: Second Company
-      tag:
-      location: Beijing
+    - role: DevOps engineer
+      time: 2021.12 - present
+      company: Kyndryl
+      tag: full-time
+      location: Brno
       details: |
         Experience in this company:
-        + First
-        + Second
+          + Password retention system automated migration and update implementation
+          + Setup of network policies checking management via Restorepoint (lua, regular expressions)
+          - role: DevOps engineer
 
-        ...
-
-    - role: Backend Developer
-      time: 2017.03 - 2018.03
-      company: First Company
-      tag: Remote, part-time
-      location: Beijing
+    - role: Network security engineer
+      time: 2020.08 - 2021.04
+      company: IBM
+      tag: full-time
+      location: Brno
       details: |
         Experience in this company:
-        + First
-        + Second
+        + Automation dvelopmen for password management
+        + Firewall configuration ()
+        + Windows Policies configuration
 
-        ...
+    - role:
+      time: 2020.08 - 2020.03
+      company: IBM
+      tag: full-time
+      location: Brno
+      details: |
+        Experience in this company:
+        + Application secutity assesment
+        + VBA automation scripting
+        + Firewall configration
 
+    
+    - role: Python Developer
+      time: 2016.02 - 2017.02
+      company: freelance
+      tag: freelance
+      location: Saint-Petersburg
+      details: |
+        Experience in this company:
+          + Development of a design document during the conversation with client
+          + Development of software logic and interface - Windows python desktop WxWidgets application - software downloader/launcher with licence key checking, compiled into single executable.
+          + Developed Flask server-side web application with VueJS UI for license key control and generation.
+
+Technologies: Python, Flask, Windows, WxWidgets.
+        
+    - role: DevOps engineer / Backend python developer
+      time: 2018.08 - 2020.04
+      company: Grid Dynamics
+      tag: full-time
+      location: Saint-Petersburg
+      details: |
+        + Developed system for parsing and storing internal legacy YAML archive data (Python3, Flask, SQLite, SqlAlchemy), including search web-interface.
+        + Developed wireless/sensors logic and AWS IoT integration (MQTT protocol) for embedded Arduino device in C++.
+        + Developed parametric UI system for Jenkins automation server’s scripted pipeline.
+        + Developed automated report for Network Operations Centre team, based on Jenkins pipeline and
+        + python backend, that collects information from Jira, Confluence, Prometheus’s Alerta.
+        + Joined production support team as a Network Operation Centre specialist to help build 24/7 support for GCP production for big american retail customer.
+        + Developed a git-based changelog system for integration with Confluence.
+        + Participated in development of ansible-based DBA-automation tool for big retail shop, performed codebase migration from Python2 to Python3.
+        + Participated in development of terraform-based environment-management system based on GitOps principles.
+        
+    - role: the_covert
+      time: 2017.02 - 2018.05
+      company: TimeWeb
+      tag: full-time
+      location: Saint-Petersburg
+      details: |
+        Experience in this company:
+          + Stage environment (virtual servers, networking) development, monitoring and maintenance.
+          + Ansible playbooks develop and debug, Fabric deploy scripts.
+          + Gitlab pipelines CI/CD (Python/NodeJS backend and Android app building)
+          + Monitoring system develop based maintenance on Zabbix/Graphana (about 100 machines)
+          + Develop custom modules for Zabbix for RESTfull app monitoring.
+          + Dockerization of cryptocurrency daemons, dockerization of stage environment.
+          + PostgreSQL/MySQL data search and formatting tasks.
+          + Development Backend on Django for inner project.
+          + Built and deployed zabbix discovery development
+          + Automated staging environment deployment via Ansible
+          + development of docker-based automated testing environment for developers team (micro-staging in containers)
+
+    - role: 2nd line Tech support engineer
+      time: 2016.02 - 2017.03
+      company: TimeWeb
+      tag: full-time
+      location: Saint-Petersburg
+      details: |
+        Experience in this company:
+          + Resolving user requests (CMS installation, DB queries, PHP, Python, Javascript bugfixing)
+          + Monitoring (zabbix).
+          + Hosting servers maintenance (updates, kernel patching)
+          + Application secutity assesment
+          + Development of tooling for task automation (python, ruby).
+          + Improved tickets processing during internal crowd-sourcing program.
+      
+    - role: Support engineer
+      time: 2015.02 - 2016.02
+      company: Scout
+      tag: full-time
+      location: Saint-Petersburg
+      details: |
+        Experience in this company:
+          + Remote technical support via RDP, TeamViewer
+          + bug reporting (TFS)
+          + Automation via Python, Visual Basic
+
+        
 projects:
-  display: true
+  display: false
   title: Projects
   intro: |
     This is all the projects I'm involved in.
@@ -84,47 +174,39 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + First
-    + Second
+    + Python
+    + DevOps stack
+    + Troubleshooting
 
     ...
 
   levels:
-    - name: Skill A
-      level: 90
-    - name: Skill B
+    - name: Python
       level: 80
-    - name: Skill C
+    - name: Linux
+      level: 75
+    - name: Javascript
       level: 70
+    - name: architecture
+      level: 60
+    - name: Kubernetes
+      level: 55
+        
 
 education:
   display: true
   title: Education
   items:
-    - university: Example University
-      time: 2015 - 2018
-      major: Machine Learning
-      degree: Master
-      details: |
-        Experience in this university:
-        + First
-        + Second
-
-        ...
-
-    - university: Example University
-      time: 2011 - 2015
-      major: Computer Science
+    - university: Saint-Petersburg Institute of IT, Mechanics and Optics (ITMO)  
+      time: 2013 - 2015
+      major: Optical Physics
       degree: Bachelor
       details: |
         Experience in this university:
-        + First
-        + Second
-
-        ...
+        + Optical software engineering
 
 certificates:
-  display: true
+  display: false
   title: Certificates
   items:
     - name: Course Foo
@@ -140,7 +222,7 @@ certificates:
       details: |
 
 publications:
-  display: true
+  display: false
   title: Publications
   intro: |
     This is all the books I wrote.
@@ -156,7 +238,7 @@ publications:
       link:
 
 patents:
-  display: true
+  display: false
   title: Patents
   details: |
     This is all my patents.
@@ -166,29 +248,29 @@ languages:
   display: true
   title: Languages
   items:
-    - idiom: Chinese
+    - idiom: Russia
       level: Native
     - idiom: English
-      level: Professional
+      level: Fluent
+    - idiom: Czech
+      level: Basic
 
 interests:
   display: true
   title: Interests
   items:
-    - item: Reading
+    - item: Computer graphics and digital video
       link:
-    - item: Cooking
+    - item: Music and sound synthesis
       link:
+    - item: Math
 
 evaluation:
-  display: true
+  display: false
   title: Self-evaluation
   details: |
-    Here is my self evaluation.
-    + First
-    + Second
-
-    ...
+    
+    + 
 
 footer:
   display: true
