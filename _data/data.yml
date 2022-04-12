@@ -17,17 +17,9 @@ profile:
   display: true
   title: Profile
   details: |
-    I’m considering myself not as a “programmer on language X”, but as IT engineer in general. My main skill is not knowing a certain technologies (which is countless and they are keep evolving), but the ability to search, to understand new, to figure out technical requirements from customers and to engineer solutions, using the most suitable tools available.
-    My main language is Python, because it’s like is an English in the world of computer languages, but also I love Lisps.
-    Also development process is not about tools, but it’s about people, so I understand importance of being team player and project management practices. 
-
-    * 6+ year experience of Python programming (Python3, Python2 migration, web frameworks - flask, bottle, Django). 5+ year DevOps (Ansible, Chief, Fabric, Jenkins, Kubernetes)
-    * 4+ CloudOps experience (AWS, GCE, GKE), including projects in blockchain technologies field (cryptocurrency exchange).
-    * 7+ year experience of various Linux systems administration (Debian-based, RHEL-based).
-    * Experience with machine learning, understanding of principles, built simple prediction models for financial sphere.
-    * Solid Javascript, C++ understanding, algorithms and programming language theory.
-    * Stack: Python, NodeJS, Java apps.
-
+    I'm thinking that it's inmortant for an IT engineer to be not a “programmer on language X”, but an Engineer in general. My main skill isn't a certain technologies knowledge - technologies are countless and keep evolve - but ability to search, to understand, to figure out requirements, to architect solution with the best tools, and to learn from a mistakes, which always occurs.
+    My main programming language is Python, because it’s like is an English in the world of computer languages, but I have been composing programs and writing computer poetry on counless languages, I have a special attitude towards Lisps.
+    Also development process is not about tools, but it’s about people, so I understand importance of being team player and project management practices.
 
 experiences:
   display: true
@@ -162,11 +154,13 @@ skills:
   title: Skills
   details: |
     Here is my skills:
-    + Python
-    + DevOps stack
-    + Troubleshooting
+    * 6+ year experience of Python programming (Python3, Python2 migration, web frameworks - flask, bottle, Django). 5+ year DevOps (Ansible, Chief, Fabric, Jenkins, Kubernetes)
+    * 4+ CloudOps experience (AWS, GCE, GKE), including projects in blockchain technologies field (cryptocurrency exchange).
+    * 7+ year experience of various Linux systems administration (Debian-based, RHEL-based).
+    * Experience with machine learning, understanding of principles, built simple prediction models for financial sphere.
+    * Solid Javascript, C++ understanding, algorithms and programming language theory.
+    * Stack: Python, NodeJS, Java apps.
 
-    ...
 
   levels:
     - name: Python
@@ -248,10 +242,9 @@ interests:
   title: Interests
   items:
     - item: Computer graphics and digital video
-      link:
     - item: Music and sound synthesis
-      link:
     - item: Math
+    - item: linguistics
 
 evaluation:
   display: false
