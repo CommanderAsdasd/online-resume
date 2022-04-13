@@ -158,8 +158,6 @@ skills:
       level: 80
     - name: Linux
       level: 75
-    - name: Javascript
-      level: 70
     - name: architecture
       level: 60
     - name: Kubernetes
