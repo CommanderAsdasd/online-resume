@@ -158,9 +158,9 @@ skills:
       level: 80
     - name: Linux
       level: 75
-    - name: architecture
+    - name: Architect
       level: 60
-    - name: Kubernetes
+    - name: k8s
       level: 55
         
 
