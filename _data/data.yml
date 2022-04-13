@@ -39,7 +39,7 @@ experiences:
           + Setup of network policies checking management (Restorepoint, lua)
 
     - role: Network security engineer
-      time: 2020.08 - 2021.04
+      time: 2020.08 - 2021.12
       company: IBM
       tag: full-time
       location: Brno
