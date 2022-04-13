@@ -17,3 +17,5 @@ allow_search_engines: true  # allow search engines indexing your resume
 analytics:
   google:                   # your google analytics
   cloudflare:               # your cloudflare analytics
+
+theme: jekyll-theme-midnight
