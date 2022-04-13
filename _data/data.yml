@@ -22,7 +22,7 @@ profile:
     
     My main programming language is Python, because it’s like is an English in the world of computer languages, but I have been composing programs and writing computer poetry on countless languages, I have a special warm attitude towards Lisps.
     
-    Also development process is not about tools, but it’s about people, so I understand importance of being team player and project management practices.
+    Also development process is not about tools, but it’s about people, so I understand vitality of being team player and project management practices.
 
 experiences:
   display: true
@@ -53,15 +53,13 @@ experiences:
         + Firewall configration
     
     - role: Python Developer
-      time: 2016.02 - 2017.02
+      time: 2020.04 - 2020.07
       company: freelance
       tag: freelance
       location: Saint-Petersburg
       details: |
         Experience in this company:
-          + Development of a design document during the conversation with client
-          + Development of software logic and interface - Windows python desktop WxWidgets application - software downloader/launcher with licence key checking, compiled into single executable.
-          + Development of the Flask server-side web application with VueJS UI for license key control and generation.
+          + Development of simple prediction neural network based on financial data or merger and aquisitions of companies (educational project, Python, tensorflow)
 
         
     - role: Backend python developer & DevOps engineer
